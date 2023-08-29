@@ -1,0 +1,36 @@
+
+
+li {
+    text-decoration: none;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #e49898;
+    border-radius: 1rem;
+    list-style: none;
+    text-align: left;
+    
+}
+
+li > span {
+    font-size: 16px;
+    padding: 0 10px;
+    color: #000;
+    display: inline-block;
+    font-size : 18px;
+    text-transform : capitalize;
+    text-overflow: ellipsis;
+    max-width: 45%;
+    font-family: 'Courier New';
+    color: #000000;
+}
+
+button {
+    padding: 2px 5px;
+    background: #fc0000;
+    border: 1px solid #777;
+    border-radius: 10%;
+    color: #fff;
+    text-transform: uppercase;
+    cursor:pointer !important;
+}
+
