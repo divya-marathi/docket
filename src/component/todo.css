@@ -26,11 +26,22 @@ li > span {
 
 button {
     padding: 2px 5px;
-    background: #fc0000;
+    background: #ff0000;
     border: 1px solid #777;
-    border-radius: 10%;
+    border-radius: 20%;
     color: #fff;
     text-transform: uppercase;
     cursor:pointer !important;
 }
 
+.body{
+
+        width: 100%;
+        height: auto;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position:top;
+        background-size: cover;
+        background-image: url("https://static.vecteezy.com/system/resources/previews/005/697/400/non_2x/white-clipboard-task-management-todo-check-list-efficient-work-on-project-plan-fast-progress-level-up-concept-assignment-and-exam-productivity-solution-icon-3d-render-on-white-background-vector.jpg");
+   
+}
